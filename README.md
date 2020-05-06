@@ -1,1 +1,1 @@
-# Josephson-Junction
+# Josephson Junction Lab (JOS)
